@@ -10,6 +10,12 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+# IDE
+.vscode/
+
+# Unity Learn framework (autogenerado)
+/ProjectSettings/Packages/com.unity.learn.iet-framework/
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
